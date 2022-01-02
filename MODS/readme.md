@@ -1,7 +1,7 @@
 <!--
  * @Author: HK560
  * @Date: 2021-12-28 23:50:14
- * @LastEditTime: 2021-12-30 23:45:56
+ * @LastEditTime: 2022-01-02 11:08:27
  * @LastEditors: HK560
  * @Description:
  * @FilePath: \NorthStarCN_WIKIh:\github\ttf\Titan-Mods\MODS\readme.md
@@ -17,3 +17,5 @@
 - [HitscanToProjectile](https://github.com/Daar375/HitscanToProjectile) 让直接判定命中的武器变成拥有子弹实体的武器，大概就是说子弹是实体的像克莱伯那样的子弹有飞行时间不是直接判定命中 需要服务端客户端都装才生效
 - [ADMIN ABUSE MOD](https://github.com/x3Karma/Admin-Abuse-Mod)
 - [titanfall-2-no-viewmodels](https://github.com/iwishiwasbee/titanfall-2-no-viewmodels)
+- [FFA.WeaponsFilter](https://github.com/F1F7Y/FFA.WeaponsFilter/releases/tag/v1.0.0)
+- [Mode.KraberOnly](https://github.com/F1F7Y/Mode.KraberOnly/releases/tag/v1.0.0)
