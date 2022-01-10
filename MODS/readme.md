@@ -1,7 +1,7 @@
 <!--
  * @Author: HK560
  * @Date: 2021-12-28 23:50:14
- * @LastEditTime: 2022-01-02 11:08:27
+ * @LastEditTime: 2022-01-03 21:09:36
  * @LastEditors: HK560
  * @Description:
  * @FilePath: \NorthStarCN_WIKIh:\github\ttf\Titan-Mods\MODS\readme.md
@@ -19,3 +19,8 @@
 - [titanfall-2-no-viewmodels](https://github.com/iwishiwasbee/titanfall-2-no-viewmodels)
 - [FFA.WeaponsFilter](https://github.com/F1F7Y/FFA.WeaponsFilter/releases/tag/v1.0.0)
 - [Mode.KraberOnly](https://github.com/F1F7Y/Mode.KraberOnly/releases/tag/v1.0.0)
+- [ShowdownGamemode](https://github.com/jerbmega/northstar-showdown)
+- [autobalance](https://github.com/barnabwhy/Barnab.AutoBalance/releases/tag/1.0.2)
+- [gungame变体](https://github.com/ASpoonPlaysGames/Spoons.RandomGunGame)
+- [TeamShuffle比赛前打乱队伍](https://github.com/Kala30/TeamShuffle/releases)
+- [Fiesta模式](https://github.com/WishaWoshi/fiesta)
