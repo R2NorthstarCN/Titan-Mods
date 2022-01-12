@@ -1,7 +1,7 @@
 <!--
  * @Author: HK560
  * @Date: 2021-12-28 23:50:14
- * @LastEditTime: 2022-01-03 21:09:36
+ * @LastEditTime: 2022-01-12 10:05:04
  * @LastEditors: HK560
  * @Description:
  * @FilePath: \NorthStarCN_WIKIh:\github\ttf\Titan-Mods\MODS\readme.md
@@ -24,3 +24,5 @@
 - [gungame变体](https://github.com/ASpoonPlaysGames/Spoons.RandomGunGame)
 - [TeamShuffle比赛前打乱队伍](https://github.com/Kala30/TeamShuffle/releases)
 - [Fiesta模式](https://github.com/WishaWoshi/fiesta)
+- [Automatic Wingman Elite](https://github.com/Demonic-git/Titanfall-2-Server-Side-Mods)
+- [The Pilot](https://github.com/Bolexle/The.Pilot/releases)
